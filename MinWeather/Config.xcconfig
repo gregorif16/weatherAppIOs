@@ -1,0 +1,8 @@
+//
+//  Config.xcconfig
+//  WeatherApp
+//
+//  Created by Gregori Farias on 14/9/24.
+//
+
+API_KEY = 1022abf838c5b1514a8d20ba059ca894
